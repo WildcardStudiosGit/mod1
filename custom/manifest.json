@@ -1,14 +1,18 @@
 {
   "music": [
-    { "name": "Metal Crusher", "file": "music/metallica.mp3" }
+    { "name": "ABAB", "file": "music/metallica.mp3" },
+    { "name": "ABAB", "file": "music/metallica.mp3" }
   ],
   "icons": [
-    { "name": "Mettaton", "file": "icons/guy.png" }
+    { "name": "ACAC", "file": "icons/guy.png" },
+    { "name": "ACAC", "file": "icons/guy.png" }
   ],
   "cursors": [
-    { "name": "Heart", "file": "cursors/heart.webp" }
+    { "name": "ADAD", "file": "cursors/heart.webp" },
+    { "name": "ADAD", "file": "cursors/heart.webp" }
   ],
   "bg": [
-    { "name": "Undertale", "file": "bg/tale.png" }
+    { "name": "AEAE", "file": "bg/tale.png" },
+    { "name": "AEAE", "file": "bg/tale.png" }
   ]
 }
